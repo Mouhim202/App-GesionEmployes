@@ -59,6 +59,8 @@ public class GestionEmployes {
 
         scanner.close();
     }
+
+
     // Méthode pour afficher le menu
     private static void printMenu() {
         System.out.println("\n=== Menu Gestion des Employés ===");
@@ -81,6 +83,8 @@ public class GestionEmployes {
         }
         return false;
     }
+
+
     // Méthode pour ajouter un employé
     private static void ajouterEmploye(Scanner scanner) {
         if (nombreEmployes >= MAX_EMPLOYES) {
