@@ -1,6 +1,6 @@
 <h2>Application de Gestion des Employés<br>Ecrans montrant l’exécution de chaque besoin</h2>
 <h4>1. printMenu() : Afficher le menu principal avec les options disponibles.</h4>
-<img src="Captures/9.png">
+<img src="Captures/11.png">
 <h4>2. ajouterEmploye(Employe employe) : Ajouter un nouvel objet Employe au tableau.</h4>
 <img src="Captures/1.png">
 <h4>3. modifierEmploye(int id, String nouveauNom, String nouveauPoste, double nouveauSalaire) : Modifier un employé existant.</h4>
