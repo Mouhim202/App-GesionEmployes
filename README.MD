@@ -13,7 +13,7 @@
 <img src="Captures/5.png">
 <h4>7. calculerMasseSalariale() : Calculer la somme des salaires des employés présents dans le tableau.</h4>
 <img src="Captures/6.png">
-<h4>trierEmployesParSalaire(boolean ordreCroissant) : Trier et afficher les employés par salaire dans l’ordre choisi (croissant ou décroissant).</h4>
+<h4>8. trierEmployesParSalaire(boolean ordreCroissant) : Trier et afficher les employés par salaire dans l’ordre choisi (croissant ou décroissant).</h4>
 <h6>Croissant</h6>
 <img src="Captures/7.png">
 <h6>Décroissant</h6>
